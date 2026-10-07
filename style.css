@@ -1,3 +1,4 @@
+
 :root{
     --cor-fundo: #f4f1ea;
     --cor-texto: #222222;
@@ -10,6 +11,7 @@
     --cor-clara: white;
     --cor-rodape: #222222;
 }
+
 
 body {
     background-color: var(--cor-fundo);
